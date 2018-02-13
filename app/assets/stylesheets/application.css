@@ -12,10 +12,8 @@
  *
 
  *= require bootstrap.min
- *= require bootstrap-grid.min
  *= require font-awesome.min
  *= require simple-line-icons
- *= require font-awesome
  *= require new-age
  *= require_tree .
  *= require_self

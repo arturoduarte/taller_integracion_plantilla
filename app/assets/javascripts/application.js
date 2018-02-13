@@ -15,7 +15,6 @@
 //= require jquery.min
 //= require jquery.easing.min
 //= require bootstrap.bundle.min
-//= require new-age.min
 //= require_tree .
 
 
